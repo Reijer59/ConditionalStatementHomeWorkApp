@@ -3,7 +3,7 @@ VisualStudio 2022
 Net 6.0  
 ConsoleApp  
 # Purpose
-This is an homework assignment application for the C# Mastercourse to be reviewed by member students.
+This is an homework assignment application for the [C# Mastercourse](https://www.iamtimcorey.com/courses/csharp-mastercourse/) to be reviewed by member students.
 
 # Goal
 I want to learn CSharp so I get more knowledge of OOP Programming.
