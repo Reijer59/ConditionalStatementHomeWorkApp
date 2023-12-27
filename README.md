@@ -1,8 +1,7 @@
 # ConditionalStatementHomeWorkApp
-VisualStudio 2022
-Net 6.0
-ConsoleApp
-
+VisualStudio 2022  
+Net 6.0  
+ConsoleApp  
 # Purpose
 This is an homework assignment application for the C# Mastercourse to be reviewed by member students.
 
